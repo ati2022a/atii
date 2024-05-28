@@ -1,4 +1,4 @@
-for githu
+for github
 start
 sudo apt update && sudo apt upgrade -y
 
